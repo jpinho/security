@@ -1,0 +1,7 @@
+ASA Second Project, related with bipartite graph matching.
+
+Featuring Ford-Furlkerson, Edmonds-Karp and Hopcroft-Karp algorithms.
+Being the latest, the better one having a worst case scenario complexity
+of V * sqrt(E) way better than Edmonds-Karp with V*(V*E), even though
+the BFS introduced by Edmonds improves Ford algorithm, Edmonds keeps
+not being better for every cases.
