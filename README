@@ -1,7 +1,5 @@
-ASA Second Project, related with bipartite graph matching.
+A project about security units of intervention teams, which need to know the most costless communication connection between 
+two critical points of activists to cut off (intercept) so that the two groups of activists cannot communicate, 
+stoping isolated civil fights. 
 
-Featuring Ford-Furlkerson, Edmonds-Karp and Hopcroft-Karp algorithms.
-Being the latest, the better one having a worst case scenario complexity
-of V * sqrt(E) way better than Edmonds-Karp with V*E^2, even though
-the BFS introduced by Edmonds improves Ford algorithm, Edmonds keeps
-not being better for every cases.
+Featuring a Edmonds Karp algorithm for detecting Max Flows, through min cuts!
