@@ -1,5 +1,6 @@
-A project about security units of intervention teams, which need to know the most costless communication connection between 
-two critical points of activists to cut off (intercept) so that the two groups of activists cannot communicate, 
-stoping isolated civil fights. 
+A project about security units of intervention teams, which need to know 
+the most costless communication connection between two critical points of 
+activists to cut off (intercept) so that the two groups of activists cannot 
+communicate, stoping isolated civil fights. 
 
 Featuring a Edmonds Karp algorithm for detecting Max Flows, through min cuts!
